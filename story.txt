@@ -6,3 +6,4 @@ He goes to class.
 He got a new message from his teacher.
 This is from MAIN branch
 My name is Cassie
+branch concept is getting clearer

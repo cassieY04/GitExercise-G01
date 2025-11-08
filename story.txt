@@ -1,6 +1,11 @@
 Adam wakes up in the morning.
 He brushes his teeth.
 He has breakfast.
-Then he . . .
+Then he checked Instagram
 He goes to class.
+<<<<<<< HEAD
 He saw his friend are late but he come early?
+=======
+He got a new message from his teacher.
+>>>>>>> main
+

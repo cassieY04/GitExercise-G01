@@ -10,3 +10,6 @@ This is from MAIN branch
 My name is Cassie
 branch concept is getting clearer
 this is from AT THE CLASS branch
+Hey guys this is Jia Qi.
+idk what am i doing tbh just messing around with git and github exercises from willie ppt.
+
